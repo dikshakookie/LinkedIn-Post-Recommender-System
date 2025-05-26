@@ -1,0 +1,12 @@
+streamlit==1.24.0
+requests
+streamlit-lottie
+pandas
+numpy
+torch
+transformers
+tensorflow
+wordcloud
+matplotlib
+scikit-learn
+spacy==3.1.3
